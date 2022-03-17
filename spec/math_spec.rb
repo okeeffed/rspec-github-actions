@@ -1,4 +1,3 @@
-require 'spec_helper'
 require 'contrived_math'
 
 RSpec.describe Math do
