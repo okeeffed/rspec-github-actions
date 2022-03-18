@@ -11,7 +11,7 @@ jobs:
         id: release
         with:
           release-type: ruby
-          package-name: release-please-demo
+          package-name: contrived_math
           bump-minor-pre-major: true
           version-file: "lib/release/contrived_math/version.rb"
       # Checkout code if release was created
