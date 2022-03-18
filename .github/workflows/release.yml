@@ -4,7 +4,7 @@ on:
     branches:    
       - 'main' # main only
 jobs:
-  run-rspec-tests:
+  release:
     runs-on: ubuntu-latest
     steps:
       - uses: GoogleCloudPlatform/release-please-action@v2
