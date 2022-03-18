@@ -1,2 +1,3 @@
 # Generate coverage dynamically on PR
 coverage/
+*.gem
