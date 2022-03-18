@@ -1,5 +1,12 @@
 # Changelog
 
+### [0.1.1](https://www.github.com/okeeffed/rspec-github-actions/compare/v0.1.0...v0.1.1) (2022-03-18)
+
+
+### Bug Fixes
+
+* broken reference in gemspec ([44b741d](https://www.github.com/okeeffed/rspec-github-actions/commit/44b741d8eb9674d37292042b0ac47dc702894b8f))
+
 ## 0.1.0 (2022-03-18)
 
 
