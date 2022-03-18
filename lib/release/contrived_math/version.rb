@@ -1,3 +1,3 @@
-module Release::ContrivedMath
+module ContrivedMath
   VERSION = '0.1.0'.freeze
 end
