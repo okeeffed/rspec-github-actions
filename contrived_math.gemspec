@@ -1,6 +1,8 @@
+require_relative 'lib/release/contrived_math/version'
+
 Gem::Specification.new do |s|
   s.name        = 'contrived_math'
-  s.version     = '0.0.0'
+  s.version     = Release::ContrivedMath::VERSION
   s.summary     = 'Hello, World!'
   s.description = 'A simple hello world gem'
   s.authors     = ["Dennis O'Keeffe"]
